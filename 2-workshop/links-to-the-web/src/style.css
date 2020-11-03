@@ -1,0 +1,23 @@
+a {
+  display:block;
+  margin: 10px;
+  font-family: 'Sen', sans-serif;
+  color: green;
+}
+
+a:hover {
+  color: lime;
+  text-decoration: none;
+}
+
+/* a:visited {
+  color: purple;
+} */
+
+/* a:active {
+  color: red;
+} */
+
+/* main:hover {
+  background: red;
+} */

@@ -1,0 +1,33 @@
+label {
+  font-family: 'Baloo Thambi 2', cursive;
+  font-weight: bold;
+  font-size: 24px;
+  display: block;
+  text-transform: uppercase;
+  margin: 5px;
+  margin-top: 20px;
+}
+
+input {
+  font-family: 'Baloo Thambi 2', cursive;
+  font-weight: bold;
+  font-size: 24px;
+  display: block;
+  border: 5px solid lightgreen;
+  border-radius: 10px;
+  margin: 5px;
+  padding: 20px;
+}
+
+button {
+  font-family: 'Baloo Thambi 2', cursive;
+  font-weight: bold;
+  font-size: 24px;
+  text-transform: uppercase;
+  background: lightgreen;
+  border: 0px solid lightgreen;
+  border-radius: 40px;
+  margin: 5px;
+  margin-top: 20px;
+  padding: 20px;
+}

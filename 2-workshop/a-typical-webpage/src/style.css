@@ -1,0 +1,34 @@
+header {
+  display: flex;
+  background: purple;
+  height: 50px;
+}
+
+.item1,.item2 {
+  background: cyan;
+  height: 30px;
+  width: 100px;
+  margin: 10px;
+  list-style-type: none;
+}
+
+.item2 {
+  width: 150px;
+}
+
+main {
+  display: flex;
+  height: 500px;
+}
+
+.yellow {
+  background: yellow;
+  flex-grow: 4;
+  margin: 0px;
+}
+
+.green {
+  background: lime;
+  flex-grow: 1;
+  margin: 0px
+}

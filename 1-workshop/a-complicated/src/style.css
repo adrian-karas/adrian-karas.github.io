@@ -1,0 +1,12 @@
+form {
+  font-family: arial;
+  width: 400px;
+}
+
+.noresize {
+  resize: none;
+}
+
+.valign {
+  vertical-align: middle;
+}

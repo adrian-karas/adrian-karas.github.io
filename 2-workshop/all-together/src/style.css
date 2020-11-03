@@ -1,0 +1,50 @@
+.container {
+  max-width: 550px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+header {
+  background: aqua;
+  height: 100px;
+}
+
+.main-part {
+  display: flex;
+  justify-content: space-between;
+  height: 550px;
+}
+
+.left-sidebar {
+  background: orange;
+  flex-grow: 1;
+  margin-right: 20px;
+}
+
+.main-content {
+  background: red;
+  flex-grow: 3;
+  position: relative;
+}
+
+.box {
+  background: black;
+  width: 50px;
+  height: 50px;
+  position: absolute;
+  bottom: 20px;
+  right: 20px;
+  border: none;
+  padding: 0px;
+}
+
+.right-sidebar {
+  background: purple;
+  flex-grow: 1;
+  margin-left: 20px;
+}
+
+footer {
+  background: blue;
+  height: 100px;
+}

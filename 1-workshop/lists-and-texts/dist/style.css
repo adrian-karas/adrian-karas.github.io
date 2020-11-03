@@ -1,0 +1,19 @@
+h1 {
+  color: red;
+}
+
+h2 {
+  color: purple;
+}
+
+ol {
+  list-style-type: upper-roman;
+}
+
+.colored {
+  color: violet
+}
+
+.underlined {
+  text-decoration: underline;
+}

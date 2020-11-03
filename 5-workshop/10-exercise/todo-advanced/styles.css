@@ -1,0 +1,61 @@
+.outerframe {
+    max-width: 700px;
+    margin-left: auto;
+    margin-right: auto;
+    background: #30ccaa;
+    padding: 60px;
+    font-family: 'Open Sans', sans-serif;
+}
+
+.innerframe {
+    max-width: 400px;
+    margin-left: auto;
+    margin-right: auto;
+    background: #eeeeee;
+    padding: 50px;
+    padding-top: 20px;
+    color: #AAAAAA;
+}
+
+h1 {
+    text-align: center;
+    color: #AAAAAA;
+    margin: 0px;
+    margin-bottom: 30px;
+    font-size: 60px;
+}
+
+.inputset {
+    display: flex;
+    width: 400px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 50px;
+    align-items: stretch;
+    border: 1px solid #AAAAAA;
+}
+
+input {
+    flex-grow: 1;
+    height: 40px;
+}
+
+button {
+    font-size: 22px;
+    color: white;
+    background: magenta;
+}
+
+.todos-container {
+    display: inline;
+}
+
+p {
+    font-weight: bold;
+    font-size: 22px;
+}
+
+img {
+    height: 22px;
+    color: #AAAAAA;
+}
